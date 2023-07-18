@@ -7,4 +7,4 @@
 	```
 * Para rodar os códigos no interpretador, siga os passos:
 	1. Execute o comando `scheme` no terminal;
-	2. No prompt do interpretador, execute o comando (load "nome_do_arquivo.scm")
+	2. No prompt do interpretador, execute o comando `(load "nome_do_arquivo.scm")`.
